@@ -30,4 +30,4 @@ The dataset can be downloaded from Kaggle:
 
 ## Project File
 
-- `Pandas Project Customer Churn EDA (2).ipynb`
+- `Customer-Churn-Analysis-Python.ipynb`
